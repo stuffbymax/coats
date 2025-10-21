@@ -17,11 +17,6 @@
           "type": "lion rampant",
           "position": "center",
           "color": "Or"
-        },
-        {
-          "type": "wheat sheaf",
-          "position": "supporters",
-          "color": "Or"
         }
       ],
       "shieldShape": "heater",
