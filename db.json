@@ -2,7 +2,7 @@
   "coatOfArms": [
     {
       "id": "1",
-      "name": "Halifax, UK",
+      "name": "Halifax,UK",
       "motto": {
         "latin": "Labor omnia vincit",
         "english": "Work conquers all"
@@ -27,7 +27,7 @@
       "shieldShape": "heater",
       "createdAt": "N/A",
       "designer": "Traditional",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Halifax_Coat_of_Arms.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Halifax_COA.svg/1024px-Halifax_COA.svg.png",
       "description": "The coat of arms features a golden lion rampant symbolizing courage and strength, flanked by golden wheat sheaves representing agriculture and fertility. The blue and silver colors represent loyalty and peace respectively.",
       "usage": {
         "officialDocuments": true,
