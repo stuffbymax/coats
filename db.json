@@ -7,7 +7,11 @@
         "latin": "Virtus et Honor",
         "english": "Valor and Honor"
       },
-      "colors": ["Azure", "Or", "Gules"],
+      "colors": [
+        "Azure",
+        "Or",
+        "Gules"
+      ],
       "symbols": [
         {
           "type": "falcon",
@@ -38,7 +42,11 @@
         "latin": "Virtus et Honor",
         "english": "Valor and Honor"
       },
-      "colors": ["Azure", "Or", "Gules"],
+      "colors": [
+        "Azure",
+        "Or",
+        "Gules"
+      ],
       "symbols": [
         {
           "type": "falcon",
