@@ -1,62 +1,66 @@
 {
-    "id": "1",
-    "name": "Halifax,uk",
-    "motto": {
-      "latin": "Virtus et Honor",
-      "english": "Valor and Honor"
-    },
-    "colors": ["Azure", "Or", "Gules"],
-    "symbols": [
-      {
-        "type": "falcon",
-        "position": "center",
-        "color": "Or"
+  "coatOfArms": [
+    {
+      "id": "1",
+      "name": "Halifax,uk",
+      "motto": {
+        "latin": "Virtus et Honor",
+        "english": "Valor and Honor"
       },
-      {
-        "type": "sword",
-        "position": "crossed behind falcon",
-        "color": "Argent"
+      "colors": ["Azure", "Or", "Gules"],
+      "symbols": [
+        {
+          "type": "falcon",
+          "position": "center",
+          "color": "Or"
+        },
+        {
+          "type": "sword",
+          "position": "crossed behind falcon",
+          "color": "Argent"
+        }
+      ],
+      "shieldShape": "heater",
+      "createdAt": "2025-10-21T14:30:00Z",
+      "designer": "Sir Heraldus",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Halifax_COA.svg/1024px-Halifax_COA.svg.png",
+      "description": "The coat of arms features a golden falcon at the center symbolizing vigilance and strength, with two silver swords crossed behind it representing defense and valor. The shield's azure, gold, and red colors denote loyalty, generosity, and warrior spirit respectively.",
+      "usage": {
+        "officialDocuments": true,
+        "flags": true,
+        "seal": true
       }
-    ],
-    "shieldShape": "heater",
-    "createdAt": "2025-10-21T14:30:00Z",
-    "designer": "Sir Heraldus",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Halifax_COA.svg/1024px-Halifax_COA.svg.png",
-    "description": "The coat of arms features a golden falcon at the center symbolizing vigilance and strength, with two silver swords crossed behind it representing defense and valor. The shield's azure, gold, and red colors denote loyalty, generosity, and warrior spirit respectively.",
-    "usage": {
-      "officialDocuments": true,
-      "flags": true,
-      "seal": true
-    }
-  },
-  {
-    "id": "2",
-    "name": "Prague",
-    "motto": {
-      "latin": "Virtus et Honor",
-      "english": "Valor and Honor"
     },
-    "colors": ["Azure", "Or", "Gules"],
-    "symbols": [
-      {
-        "type": "falcon",
-        "position": "center",
-        "color": "Or"
+    {
+      "id": "2",
+      "name": "Prague",
+      "motto": {
+        "latin": "Virtus et Honor",
+        "english": "Valor and Honor"
       },
-      {
-        "type": "sword",
-        "position": "crossed behind falcon",
-        "color": "Argent"
+      "colors": ["Azure", "Or", "Gules"],
+      "symbols": [
+        {
+          "type": "falcon",
+          "position": "center",
+          "color": "Or"
+        },
+        {
+          "type": "sword",
+          "position": "crossed behind falcon",
+          "color": "Argent"
+        }
+      ],
+      "shieldShape": "heater",
+      "createdAt": "2025-10-21T14:30:00Z",
+      "designer": "Sir Heraldus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_arms_of_Prague.svg/1024px-Coat_of_arms_of_Prague.svg.png",
+      "description": "The coat of arms features a golden falcon at the center symbolizing vigilance and strength, with two silver swords crossed behind it representing defense and valor. The shield's azure, gold, and red colors denote loyalty, generosity, and warrior spirit respectively.",
+      "usage": {
+        "officialDocuments": true,
+        "flags": true,
+        "seal": true
       }
-    ],
-    "shieldShape": "heater",
-    "createdAt": "2025-10-21T14:30:00Z",
-    "designer": "Sir Heraldus",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_arms_of_Prague.svg/1024px-Coat_of_arms_of_Prague.svg.png",
-    "description": "The coat of arms features a golden falcon at the center symbolizing vigilance and strength, with two silver swords crossed behind it representing defense and valor. The shield's azure, gold, and red colors denote loyalty, generosity, and warrior spirit respectively.",
-    "usage": {
-      "officialDocuments": true,
-      "flags": true,
-      "seal": true
     }
-  }
+  ]
+}
