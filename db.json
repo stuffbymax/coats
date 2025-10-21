@@ -2,33 +2,33 @@
   "coatOfArms": [
     {
       "id": "1",
-      "name": "Halifax,uk",
+      "name": "Halifax, UK",
       "motto": {
-        "latin": "Virtus et Honor",
-        "english": "Valor and Honor"
+        "latin": "Labor omnia vincit",
+        "english": "Work conquers all"
       },
       "colors": [
         "Azure",
-        "Or",
+        "Argent",
         "Gules"
       ],
       "symbols": [
         {
-          "type": "falcon",
+          "type": "lion rampant",
           "position": "center",
           "color": "Or"
         },
         {
-          "type": "sword",
-          "position": "crossed behind falcon",
-          "color": "Argent"
+          "type": "wheat sheaf",
+          "position": "supporters",
+          "color": "Or"
         }
       ],
       "shieldShape": "heater",
-      "createdAt": "2025-10-21T14:30:00Z",
-      "designer": "Sir Heraldus",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Halifax_COA.svg/1024px-Halifax_COA.svg.png",
-      "description": "The coat of arms features a golden falcon at the center symbolizing vigilance and strength, with two silver swords crossed behind it representing defense and valor. The shield's azure, gold, and red colors denote loyalty, generosity, and warrior spirit respectively.",
+      "createdAt": "N/A",
+      "designer": "Traditional",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Halifax_Coat_of_Arms.svg",
+      "description": "The coat of arms features a golden lion rampant symbolizing courage and strength, flanked by golden wheat sheaves representing agriculture and fertility. The blue and silver colors represent loyalty and peace respectively.",
       "usage": {
         "officialDocuments": true,
         "flags": true,
@@ -39,31 +39,31 @@
       "id": "2",
       "name": "Prague",
       "motto": {
-        "latin": "Virtus et Honor",
-        "english": "Valor and Honor"
+        "latin": "Praha matka měst",
+        "english": "Prague, mother of cities"
       },
       "colors": [
-        "Azure",
-        "Or",
-        "Gules"
+        "Gules",
+        "Argent",
+        "Or"
       ],
       "symbols": [
         {
-          "type": "falcon",
+          "type": "castle",
           "position": "center",
-          "color": "Or"
+          "color": "Argent"
         },
         {
-          "type": "sword",
-          "position": "crossed behind falcon",
-          "color": "Argent"
+          "type": "crowned lion",
+          "position": "supporters",
+          "color": "Or"
         }
       ],
       "shieldShape": "heater",
-      "createdAt": "2025-10-21T14:30:00Z",
-      "designer": "Sir Heraldus",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_arms_of_Prague.svg/1024px-Coat_of_arms_of_Prague.svg.png",
-      "description": "The coat of arms features a golden falcon at the center symbolizing vigilance and strength, with two silver swords crossed behind it representing defense and valor. The shield's azure, gold, and red colors denote loyalty, generosity, and warrior spirit respectively.",
+      "createdAt": "N/A",
+      "designer": "Historical",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Prague.svg",
+      "description": "The coat of arms displays a silver castle on a red shield, symbolizing the city’s fortitude and history. The golden crowned lion, the symbol of Bohemia, acts as a supporter, emphasizing royal heritage.",
       "usage": {
         "officialDocuments": true,
         "flags": true,
