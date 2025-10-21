@@ -39,8 +39,9 @@
       "id": "2",
       "name": "Prague",
       "motto": {
-        "latin": "Praha matka měst",
-        "english": "Prague, mother of cities"
+        "latin": "Praga Caput Rei publicae"
+        "czech": "Praha, hlava státu",
+        "english": "Prague, Head of the Republic"
       },
       "colors": [
         "Gules",
@@ -60,7 +61,7 @@
         }
       ],
       "shieldShape": "heater",
-      "createdAt": "N/A",
+      "createdAt": "15th century",
       "designer": "Historical",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Prague.svg",
       "description": "The coat of arms displays a silver castle on a red shield, symbolizing the city’s fortitude and history. The golden crowned lion, the symbol of Bohemia, acts as a supporter, emphasizing royal heritage.",
