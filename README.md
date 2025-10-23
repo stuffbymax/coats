@@ -138,3 +138,11 @@ function CoatOfArmsFinder() {
 export default CoatOfArmsFinder;
 
 ```
+
+## Notes
+
+> The API is static JSON, so no authentication or rate limits apply.
+
+> Handle missing fields (like a null Czech motto) gracefully in your code.
+
+> Works in browsers, Node.js, or any environment that supports fetch() or requests.
