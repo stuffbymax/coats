@@ -1,18 +1,13 @@
-
 {
   "coatOfArms": [
     {
       "id": "1",
-      "name": "Halifax,UK",
+      "name": "Halifax, UK",
       "motto": {
         "latin": "Labor omnia vincit",
         "english": "Work conquers all"
       },
-      "colors": [
-        "Azure",
-        "Argent",
-        "Gules"
-      ],
+      "colors": ["Azure", "Argent", "Gules"],
       "symbols": [
         {
           "type": "lion rampant",
@@ -39,11 +34,7 @@
         "czech": "Praha, hlava státu",
         "english": "Prague, Head of the Republic"
       },
-      "colors": [
-        "Gules",
-        "Argent",
-        "Or"
-      ],
+      "colors": ["Gules", "Argent", "Or"],
       "symbols": [
         {
           "type": "castle",
@@ -65,6 +56,57 @@
         "officialDocuments": true,
         "flags": true,
         "seal": true
+      }
+    },
+    {
+      "id": "3",
+      "name": "New York City",
+      "motto": {
+        "latin": "Sigillum Civitatis Novi Eboraci",
+        "english": "Seal of the City of New York"
+      },
+      "colors": ["Azure", "Argent", "Or"],
+      "symbols": [
+        {
+          "type": "eagle",
+          "position": "crest",
+          "color": "Or"
+        },
+        {
+          "type": "shield",
+          "position": "center",
+          "color": "Argent"
+        }
+      ],
+      "shieldShape": "heater",
+      "createdAt": "1624-01-01T00:00:00Z",
+      "designer": "Unknown",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20New%20York%20City.svg",
+      "description": "The coat of arms of New York City features a shield supported by a sailor and a Native American, symbolizing unity and history. An eagle crest represents strength and independence.",
+      "usage": {
+        "officialDocuments": true,
+        "flags": true,
+        "seal": true
+      }
+    },
+    {
+      "id": "4",
+      "name": "",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "",
+      "designer": "",
+      "image": "",
+      "description": "",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
       }
     }
   ]
