@@ -121,26 +121,6 @@
       }
     },
     {
-      "id": "4",
-      "name": "",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "",
-      "designer": "",
-      "image": "",
-      "description": "",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
       "id": "5",
       "name": "Los Angeles",
       "motto": {
@@ -154,6 +134,46 @@
       "designer": "",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Los%20Angeles.svg",
       "description": "seat of Los Angeles County, and largest city in California, United States",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    },
+    {
+      "id": "6",
+      "name": "Alexandria",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "-0330-01-01T00:00:00Z",
+      "designer": "",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20-%20Alexandria%2C%20Egypt.svg",
+      "description": "Alexandria is a major city in Egypt. Lying at the western edge of the Nile River Delta",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    },
+    {
+      "id": "7",
+      "name": "Bern",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1191-01-01T00:00:00Z",
+      "designer": "",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CHE%20Bern%20BE%20COA.svg",
+      "description": "city in Switzerland, capital of the canton of Bern and de facto capital of Switzerland",
       "usage": {
         "officialDocuments": false,
         "flags": false,
