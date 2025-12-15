@@ -140,5 +140,25 @@
         "seal": false
       }
     }
+    {
+      "id": "5",
+      "name": "Los Angeles",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "",
+      "designer": "",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Los%20Angeles.svg",
+      "description": "seat of Los Angeles County, and largest city in California, United States",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    }
   ]
 }
