@@ -180,5 +180,25 @@
         "seal": false
       }
     }
+    {
+      "id": "8",
+      "name": "Warsaw",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "",
+      "designer": "",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/POL%20Warszawa%20COA.svg",
+      "description": "The metropolis stands on the River Vistula in east-central Poland. Its population is officially estimated at 1.86 million residents within a greater metropolitan area of 3.27 million residents, which makes Warsaw the 6th most-populous city in the European Union.",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    }
   ]
 }
