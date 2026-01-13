@@ -245,6 +245,47 @@
         "flags": false,
         "seal": false
       }
+    },
+    {
+      "id": "10",
+      "name": "Lower Silesian Voivodeship",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": ["Yellow", "black eagle with white cross"],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "2009",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_COA.svg/960px-POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_COA.svg.png",
+      "description": "The design of the coat of arms had been for the first time used by Henry II the Pious, duke of Wrocław and Greater Poland, and the High Duke of Poland. It was present in his seal, that was used from 1224 to 1240. It depicted an eagle with a crescent put across its wings, with a cross pattée on top of it, in its middle, placed on a shield. Such design was inspired by the seal used by Henry the Bearded, his father. Since then, the black eagle with a white (silver) crescent put across its wings, usually with a white (silver) cross pattée on top of it, placed in the yellow (golden) escutcheon (shield), had become the symbol of the Lower Silesia, including being the symbol of the Piast rulers of the Duchy of Silesia, and many of its successors",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    },
+    {
+      "id": "10",
+      "name": "Lusatia",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": ["Yellow", "black eagle with white cross"],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "2009",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lusatia_COA.svg/960px-Lusatia_COA.svg.png",
+      "description": "The history behind Lusatian coats of arms is deeply intertwined with the region's cultural and political identity. The coat of arms with an ox, which may have been for Lusatia, first appeared in the time of Henry IV of Meissen. It is believed to have been the arms of Henry IV for Lusatia, as it was used in the coat of arms of the Benedictine monastery of Göss, which dates back to the time of King Přemysl Ottokar II the Great. The idea of the ox as the emblem of Lusatia was also put forward around 1520 in George Spalatin's Saxon chronicles. ",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
     }
+
   ]
 }
