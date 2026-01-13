@@ -225,6 +225,26 @@
         "flags": false,
         "seal": false
       }
+    },
+    {
+      "id": "9",
+      "name": "switzerland",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1815",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_Arms_of_Switzerland_%28Pantone%29.svg/960px-Coat_of_Arms_of_Switzerland_%28Pantone%29.svg.png",
+      "description": "The triangular shield shape was frequently used by the federal administration throughout the 20th century, and adopted officially (as emblem of the federal administration, not necessarily as emblem of Switzerland as sovereign entity) in 2017. Precedents for this shield shape go back to designs dated to as early as 1815. The official coat of arms of the Swiss Confederation is a white couped cross in a red heraldic shield, without explicit specification of the shape of the shield, and a variety of shield shapes are in use.",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
     }
   ]
 }
