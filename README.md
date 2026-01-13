@@ -137,8 +137,68 @@ function CoatOfArmsFinder() {
 
 export default CoatOfArmsFinder;
 
-```
 
+```
+## Full java script
+```js
+  let coatOfArmsData = [];
+
+    // Fetch coat of arms data once on page load
+    fetch('https://raw.githubusercontent.com/stuffbymax/coats/refs/heads/main/db.json')
+      .then(res => res.json())
+      .then(data => {
+        coatOfArmsData = data.coatOfArms || [];
+      })
+      .catch(err => console.error('Failed to fetch coat of arms data:', err));
+
+    function handleSearch() {
+      const city = document.getElementById('cityInput').value;
+      
+      if (!city.trim()) {
+        alert('Please enter a city name');
+        return;
+      }
+
+      const matchedCoat = coatOfArmsData.find(
+        coat => coat.name.toLowerCase() === city.trim().toLowerCase()
+      );
+
+      if (matchedCoat) {
+        displayCoatOfArms(matchedCoat);
+      } else {
+        alert('No coat of arms found for that city.');
+        document.getElementById('result').innerHTML = '';
+      }
+    }
+
+    function displayCoatOfArms(coat) {
+      const resultDiv = document.getElementById('result');
+      
+      // Only display original if it exists
+      const originalSection = coat.motto.original 
+        ? `<p><strong>Original:</strong> ${coat.motto.original}</p>` 
+        : '';
+      
+      resultDiv.innerHTML = `
+        <h2>${coat.name}</h2>
+        <img src="${coat.image}" alt="Coat of Arms of ${coat.name}" />
+        <p>${coat.description}</p>
+        <p><strong>API image ID:</strong> <strong>${coat.id}</strong></p>
+        <p><strong>Created:</strong> ${coat.createdAt}</p>
+        <p><strong>Latin:</strong> ${coat.motto.latin}</p>
+        <p><strong>English:</strong> ${coat.motto.english}</p>
+        ${originalSection}
+        <p><strong>Designer:</strong> ${coat.designer}</p>
+      `;
+    }
+
+    // Allow Enter key to trigger search
+    document.getElementById('cityInput').addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') {
+        handleSearch();
+      }
+    });
+```
 ## Notes
 
 > The API is static JSON, so no authentication or rate limits apply.
