@@ -284,6 +284,25 @@
         "officialDocuments": false,
         "flags": false,
         "seal": false
+      },
+    {
+      "id": "10",
+      "name": "London",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": ["Red cross", "white background"],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1381",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_Arms_of_The_City_of_London.svg/960px-Coat_of_Arms_of_The_City_of_London.svg.png",
+      "description": "The coat of arms is not just a decorative symbol; it represents the sovereignty and independence of the City of London. It is used in various official capacities, including on documents, buildings, and ceremonial occasions. The arms are also present in stained glass, street furniture, and other public displays throughout the city, reinforcing the identity and heritage of London. ",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
       }
     }
 
