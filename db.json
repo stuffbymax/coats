@@ -267,6 +267,7 @@
       }
     },
     {
+
       "id": "10",
       "name": "Lusatia",
       "motto": {
@@ -284,7 +285,8 @@
         "officialDocuments": false,
         "flags": false,
         "seal": false
-      },
+      }
+    },
     {
       "id": "11",
       "name": "London",
