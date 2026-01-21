@@ -308,6 +308,47 @@
       }
     },
     {
+      "id": "13",
+      "name": "Český Těšín",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": ["Red cross", "white background"],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1155",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cesky_Tesin_CoA.png/960px-Cesky_Tesin_CoA.png",
+      "description": "Český Těšín lies on the west bank of the Olza river, in the heart of the historical region of Cieszyn Silesia. Until the 1920 division of the region between Poland and Czechoslovakia it was just a western suburb of the town of Teschen, which after the division fell to Poland as Cieszyn. The combined population of the Czech and Polish parts of the town is around 57,000 (23,500 in Český Těšín, 33,500 in Cieszyn). The area was originally a small western suburb of the town of Cieszyn, the capital of the Duchy of Cieszyn, which was established in 1290, during the fragmentation of Poland into smaller duchies. It was ruled by the Piast dynasty until 1653, and by the Habsburg dynasty afterwards. Under Austrian rule, it was known under its Germanized name Teschen. It was known for its national and cultural diversity, consisting mostly of German, Polish, Jewish and Czech communities. In 1849, the western part of Teschen was home to only 14.9% of the town's total population: in 1880 24% and in 1910 33.4%. There was also a small but lively Hungarian community in the town, mostly officers and administrative workers.",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    },
+      {
+      "id": "13",
+      "name": "Cieszyn",
+      "motto": {
+        "latin": "Amore et non dolore",
+        "english": "for 'by love and not by pain'"
+      },
+      "colors": ["Red cross", "white background"],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1155",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/POL_Cieszyn_COA.svg/960px-POL_Cieszyn_COA.svg.png",
+      "description": "In 1920 Cieszyn Silesia was divided between the two newly created states of Poland and Czechoslovakia, with the smaller western suburbs of Cieszyn becoming part of Czechoslovakia as a new town called Český Těšín. The larger part of the town joined Poland as Cieszyn. there is also a statue build in Pałac Habsburgów that is poiting at czech part of cieszyn/Těšín",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    },
+
+    {
       "id": "-1",
       "name": "Afghanistan",
       "motto": {
