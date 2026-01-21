@@ -306,6 +306,123 @@
         "flags": false,
         "seal": false
       }
-    }
+    },
+    {
+      "id": "-1",
+      "name": "Afghanistan",
+      "motto": {
+        "native": "لَا إِلٰهَ إِلَّا الله مُحَمَّدٌ رَسُولُ الله",
+        "english": "There is no god but Allah, and Muhammad is the messenger of Allah"
+      },
+      "colors": ["Sable", "Or", "Gules", "Vert"],
+      "symbols": [
+        { "type": "mosque", "position": "center", "color": "Or" },
+        { "type": "wheat", "position": "border", "color": "Or" }
+      ],
+      "shieldShape": "circular",
+      "createdAt": "2021",
+      "designer": "Traditional Islamic",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Emblem_of_Afghanistan.svg/1024px-Emblem_of_Afghanistan.svg.png",
+      "description": "The national emblem features a mosque with a pulpit and a mihrab, surrounded by sheaves of wheat.",
+      "usage": { "officialDocuments": true, "flags": true, "seal": true }
+    },
+    {
+      "id": "-2",
+      "name": "Albania",
+      "motto": { "native": "Ti Shqipëri, më jep nder", "english": "You, Albania, give me honor" },
+      "colors": ["Gules", "Sable"],
+      "symbols": [
+        { "type": "double-headed eagle", "position": "center", "color": "Sable" },
+        { "type": "helmet of Skanderbeg", "position": "crest", "color": "Or" }
+      ],
+      "shieldShape": "french",
+      "createdAt": "1998",
+      "designer": "Historical",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coat_of_arms_of_Albania.svg/1024px-Coat_of_arms_of_Albania.svg.png",
+      "description": "A red shield featuring a black double-headed eagle, topped with the golden helmet of Skanderbeg.",
+      "usage": { "officialDocuments": true, "flags": true, "seal": true }
+    },
+    {
+      "id": "-3",
+      "name": "Algeria",
+      "motto": { "native": "الجمهورية الجزائرية الديمقراطية الشعبية", "english": "People's Democratic Republic of Algeria" },
+      "colors": ["Vert", "Argent", "Gules"],
+      "symbols": [
+        { "type": "hand of Fatima", "position": "center", "color": "Proper" },
+        { "type": "crescent and star", "position": "center", "color": "Gules" }
+      ],
+      "shieldShape": "circular",
+      "createdAt": "1976",
+      "designer": "State Commission",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Emblem_of_Algeria.svg/1024px-Emblem_of_Algeria.svg.png",
+      "description": "The emblem shows the Hand of Fatima under a star and crescent, with symbols of agriculture and industry.",
+      "usage": { "officialDocuments": true, "flags": false, "seal": true }
+    },
+    {
+      "id": "-4",
+      "name": "Andorra",
+      "motto": { "latin": "Virtus Unita Fortior", "english": "United virtue is stronger" },
+      "colors": ["Or", "Gules", "Azure"],
+      "symbols": [
+        { "type": "mitre", "position": "top-left", "color": "Or" },
+        { "type": "two cows", "position": "bottom-right", "color": "Gules" }
+      ],
+      "shieldShape": "samnite",
+      "createdAt": "1969",
+      "designer": "Historical",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_Andorra.svg/1024px-Coat_of_arms_of_Andorra.svg.png",
+      "description": "Combines the arms of the Bishop of Urgell and the Count of Foix.",
+      "usage": { "officialDocuments": true, "flags": true, "seal": true }
+    },
+    {
+      "id": "-5",
+      "name": "Angola",
+      "motto": { "native": "República de Angola", "english": "Republic of Angola" },
+      "colors": ["Azure", "Or", "Gules"],
+      "symbols": [
+        { "type": "machete", "position": "center", "color": "Or" },
+        { "type": "hoe", "position": "center", "color": "Or" },
+        { "type": "star", "position": "crest", "color": "Or" }
+      ],
+      "shieldShape": "circular",
+      "createdAt": "1990",
+      "designer": "State Commission",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Angola.svg/1024px-Emblem_of_Angola.svg.png",
+      "description": "Reflects the socialist history with a machete and hoe crossing, and a rising sun.",
+      "usage": { "officialDocuments": true, "flags": false, "seal": true }
+    },
+    {
+      "id": "-6",
+      "name": "Argentina",
+      "motto": { "native": "En unión y libertad", "english": "In unity and freedom" },
+      "colors": ["Azure", "Argent", "Or"],
+      "symbols": [
+        { "type": "shaking hands", "position": "center", "color": "Proper" },
+        { "type": "Phrygian cap", "position": "center", "color": "Gules" },
+        { "type": "Sun of May", "position": "crest", "color": "Or" }
+      ],
+      "shieldShape": "oval",
+      "createdAt": "1813",
+      "designer": "Asamblea del Año XIII",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Coat_of_arms_of_Argentina.svg/1024px-Coat_of_arms_of_Argentina.svg.png",
+      "description": "An oval shield divided into light blue and white with hands holding a pike topped with a liberty cap.",
+      "usage": { "officialDocuments": true, "flags": false, "seal": true }
+    },
+    {
+      "id": "-196",
+      "name": "Kosovo",
+      "motto": { "native": "N/A", "english": "N/A" },
+      "colors": ["Azure", "Or", "Argent"],
+      "symbols": [
+        { "type": "map of Kosovo", "position": "center", "color": "Or" },
+        { "type": "six stars", "position": "crest", "color": "Argent" }
+      ],
+      "shieldShape": "french",
+      "createdAt": "2008",
+      "designer": "Muhamer Ibrahimi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Coat_of_arms_of_Kosovo.svg/1024px-Coat_of_arms_of_Kosovo.svg.png",
+      "description": "Partially recognized state. Features the silhouette of the country and stars representing its ethnic groups.",
+      "usage": { "officialDocuments": true, "flags": true, "seal": true }
+    },
   ]
 }
