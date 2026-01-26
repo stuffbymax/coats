@@ -406,6 +406,66 @@
         "flags": false,
         "seal": false
       }
+    },
+    {
+      "id": "15",
+      "name": "Glasgow",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1175",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arms_of_the_Manchester_City_Council.svg/960px-Arms_of_the_Manchester_City_Council.svg.png",
+      "description": "",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    },
+    {
+      "id": "15",
+      "name": "Liverpool",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1207",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Coat_of_arms_of_Liverpool_City_Council.svg/960px-Coat_of_arms_of_Liverpool_City_Council.svg.png",
+      "description": "",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    },
+    {
+      "id": "15",
+      "name": "Sheffield ",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "c1101",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Sheffield_City_Council.svg/960px-Coat_of_arms_of_Sheffield_City_Council.svg.png",
+      "description": "",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
     }
   ]
 }
