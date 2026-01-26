@@ -306,6 +306,26 @@
         "flags": false,
         "seal": false
       }
+    },
+    {
+      "id": "13",
+      "name": "Ostrava",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1267",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ostrava_CoA_CZ.svg/960px-Ostrava_CoA_CZ.svg.png",
+      "description": "The city's coat of arms features a blue shield with a rearing silver horse standing on a green lawn. The horse wears a golden saddle and a red coverlet. At the top right of the shield there is a golden rose with green leaves and a red core. The horse in the coat-of-arms wears no bridle. The oldest known depiction of this coat-of-arms is on a seal dating from 1426. The first coloured version dates from 1728. The horse is often interpreted as a symbol of Ostrava's position on a major trade route, or as a figure taken from the coat-of-arms of Ostrava's first vogt (reeve), while the golden rose probably comes from the family coat-of-arms of the bishop of Olomouc Stanislav I Thurzo. This explanation is supported by most modern literature",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
     }
   ]
 }
