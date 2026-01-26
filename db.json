@@ -366,6 +366,46 @@
         "flags": false,
         "seal": false
       }
+    },
+    {
+      "id": "15",
+      "name": "Birmingham",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1166",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Coat_of_arms_of_Birmingham.svg/960px-Coat_of_arms_of_Birmingham.svg.png",
+      "description": "",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    },
+    {
+      "id": "15",
+      "name": "Manchester",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1301",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arms_of_the_Manchester_City_Council.svg/960px-Arms_of_the_Manchester_City_Council.svg.png",
+      "description": "",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
     }
   ]
 }
