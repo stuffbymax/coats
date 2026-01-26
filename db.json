@@ -347,5 +347,25 @@
         "seal": false
       }
     }
+    {
+      "id": "+14",
+      "name": "vratislav",
+      "motto": {
+        "latin": "",
+        "english": ""
+      },
+      "colors": [],
+      "symbols": [],
+      "shieldShape": "",
+      "createdAt": "1214",
+      "designer": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herb_wroclaw.svg/960px-Herb_wroclaw.svg.png",
+      "description": "The coat of arms has undergone several changes throughout history. The first version was created in 1292, featuring only the head of St. John the Baptist. After Wrocław became part of the Kingdom of Bohemia, the Bohemian lion was added. The current design was restored in 1990 after the fall of communism in Poland, reflecting the city's rich history and cultural identity.",
+      "usage": {
+        "officialDocuments": false,
+        "flags": false,
+        "seal": false
+      }
+    }
   ]
 }
