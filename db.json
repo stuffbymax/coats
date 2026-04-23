@@ -1,471 +1,339 @@
-{
-  "coatOfArms": [
-    {
-      "id": "0",
-      "name": "Halifax UK",
-      "motto": {
-        "latin": "Labor omnia vincit",
-        "english": "Work conquers all"
-      },
-      "colors": ["Azure", "Argent", "Gules"],
-      "symbols": [
-        {
-          "type": "lion rampant",
-          "position": "center",
-          "color": "Or"
-        }
-      ],
-      "shieldShape": "heater",
-      "createdAt": "N/A",
-      "designer": "Traditional",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Coat_of_arms_of_Halifax.svg/1024px-Coat_of_arms_of_Halifax.svg.png",
-      "description": "The coat of arms features a golden lion rampant symbolizing courage and strength, flanked by golden wheat sheaves representing agriculture and fertility. The blue and silver colors represent loyalty and peace respectively.",
-      "usage": {
-        "officialDocuments": true,
-        "flags": true,
-        "seal": true
+[
+  {
+    "colors": [],
+    "created_at": "-0330-01-01T00:00:00Z",
+    "description": "Alexandria is a major city in Egypt. Lying at the western edge of the Nile River Delta",
+    "designer": "",
+    "id": 5,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20-%20Alexandria%2C%20Egypt.svg",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Alexandria",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [],
+    "created_at": "1191-01-01T00:00:00Z",
+    "description": "city in Switzerland, capital of the canton of Bern and de facto capital of Switzerland",
+    "designer": "",
+    "id": 6,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CHE%20Bern%20BE%20COA.svg",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Bern",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [],
+    "created_at": "1166",
+    "description": "",
+    "designer": "",
+    "id": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Coat_of_arms_of_Birmingham.svg/960px-Coat_of_arms_of_Birmingham.svg.png",
+    "motto_english": "Forward",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Birmingham",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [
+      "Azure",
+      "Argent",
+      "Gules"
+    ],
+    "created_at": "N/A",
+    "description": "The coat of arms features a golden lion rampant symbolizing courage and strength, flanked by golden wheat sheaves representing agriculture and fertility. The blue and silver colors represent loyalty and peace respectively.",
+    "designer": "Traditional",
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Coat_of_arms_of_Halifax.svg/1024px-Coat_of_arms_of_Halifax.svg.png",
+    "motto_english": "Work conquers all",
+    "motto_latin": "Labor omnia vincit",
+    "motto_other": {},
+    "name": "Halifax UK",
+    "shield_shape": "heater",
+    "symbols": [
+      {
+        "color": "Or",
+        "position": "center",
+        "type": "lion rampant"
       }
-    },    
-    {
-      "id": "1",
-      "name": "Halifax,UK",
-      "motto": {
-        "latin": "Labor omnia vincit",
-        "english": "Work conquers all"
+    ],
+    "usage_flags": 1,
+    "usage_official_documents": 1,
+    "usage_seal": 1
+  },
+  {
+    "colors": [],
+    "created_at": "1207",
+    "description": "",
+    "designer": "",
+    "id": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Coat_of_arms_of_Liverpool_City_Council.svg/960px-Coat_of_arms_of_Liverpool_City_Council.svg.png",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Liverpool",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [
+      "Red cross",
+      "white background"
+    ],
+    "created_at": "1381",
+    "description": "The coat of arms is not just a decorative symbol; it represents the sovereignty and independence of the City of London.",
+    "designer": "",
+    "id": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_Arms_of_The_City_of_London.svg/960px-Coat_of_Arms_of_The_City_of_London.svg.png",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "London",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [],
+    "created_at": "",
+    "description": "seat of Los Angeles County, and largest city in California, United States",
+    "designer": "",
+    "id": 4,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Los%20Angeles.svg",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Los Angeles",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [
+      "Yellow",
+      "black eagle with white cross"
+    ],
+    "created_at": "2009",
+    "description": "The design of the coat of arms had been for the first time used by Henry II the Pious, duke of Wroc\u00c5\u201aaw and Greater Poland.",
+    "designer": "",
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_COA.svg/960px-POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_COA.svg.png",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Lower Silesian Voivodeship",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [],
+    "created_at": "2009",
+    "description": "The history behind Lusatian coats of arms is deeply intertwined with the region's cultural and political identity.",
+    "designer": "",
+    "id": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lusatia_COA.svg/960px-Lusatia_COA.svg.png",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Lusatia",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [
+      "Azure",
+      "Argent"
+    ],
+    "created_at": "1624-01-01T00:00:00Z",
+    "description": "The coat of arms of New York City features a shield supported by a sailor and a Native American, symbolizing unity and history. An eagle crest represents strength and independence.",
+    "designer": "Dutch West India Company, Thomas Dongan, later was standardized in 1915 by the city\u2019s Art Commission, based on historical research rather than a single artist\u2019s original creation.",
+    "id": 3,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20New%20York%20City.svg",
+    "motto_english": "Seal of the City of New York",
+    "motto_latin": "Sigillum Civitatis Novi Eboraci",
+    "motto_other": {},
+    "name": "New York City",
+    "shield_shape": "heater",
+    "symbols": [
+      {
+        "color": "Or",
+        "position": "crest",
+        "type": "eagle"
       },
-      "colors": ["Azure", "Argent", "Gules"],
-      "symbols": [
-        {
-          "type": "lion rampant",
-          "position": "center",
-          "color": "Or"
-        }
-      ],
-      "shieldShape": "heater",
-      "createdAt": "N/A",
-      "designer": "Traditional",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Coat_of_arms_of_Halifax.svg/1024px-Coat_of_arms_of_Halifax.svg.png",
-      "description": "The coat of arms features a golden lion rampant symbolizing courage and strength, flanked by golden wheat sheaves representing agriculture and fertility. The blue and silver colors represent loyalty and peace respectively.",
-      "usage": {
-        "officialDocuments": true,
-        "flags": true,
-        "seal": true
+      {
+        "color": "Argent",
+        "position": "center",
+        "type": "shield"
       }
+    ],
+    "usage_flags": 1,
+    "usage_official_documents": 1,
+    "usage_seal": 1
+  },
+  {
+    "colors": [],
+    "created_at": "1267",
+    "description": "The city's coat of arms features a blue shield with a rearing silver horse standing on a green lawn.",
+    "designer": "",
+    "id": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ostrava_CoA_CZ.svg/960px-Ostrava_CoA_CZ.svg.png",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Ostrava",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [
+      "Gules",
+      "Argent"
+    ],
+    "created_at": "15th century",
+    "description": "The coat of arms displays a silver castle on a red shield, symbolizing the city's fortitude and history. The golden crowned lion, the symbol of Bohemia, acts as a supporter, emphasizing royal heritage.",
+    "designer": "Historical",
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Prague.svg",
+    "motto_english": "Prague, Head of the Republic",
+    "motto_latin": "Praga Caput Rei publicae",
+    "motto_other": {
+      "czech": "Praha, hlava st\u00c3\u00a1tu"
     },
-    {
-      "id": "2",
-      "name": "Prague",
-      "motto": {
-        "latin": "Praga Caput Rei publicae",
-        "czech": "Praha, hlava státu",
-        "english": "Prague, Head of the Republic"
+    "name": "Prague",
+    "shield_shape": "heater",
+    "symbols": [
+      {
+        "color": "Argent",
+        "position": "center",
+        "type": "castle"
       },
-      "colors": ["Gules", "Argent", "Or"],
-      "symbols": [
-        {
-          "type": "castle",
-          "position": "center",
-          "color": "Argent"
-        },
-        {
-          "type": "crowned lion",
-          "position": "supporters",
-          "color": "Or"
-        }
-      ],
-      "shieldShape": "heater",
-      "createdAt": "15th century",
-      "designer": "Historical",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_Prague.svg",
-      "description": "The coat of arms displays a silver castle on a red shield, symbolizing the city’s fortitude and history. The golden crowned lion, the symbol of Bohemia, acts as a supporter, emphasizing royal heritage.",
-      "usage": {
-        "officialDocuments": true,
-        "flags": true,
-        "seal": true
+      {
+        "color": "Or",
+        "position": "supporters",
+        "type": "crowned lion"
       }
-    },
-    {
-      "id": "3",
-      "name": "New York City",
-      "motto": {
-        "latin": "Sigillum Civitatis Novi Eboraci",
-        "english": "Seal of the City of New York"
-      },
-      "colors": ["Azure", "Argent", "Or"],
-      "symbols": [
-        {
-          "type": "eagle",
-          "position": "crest",
-          "color": "Or"
-        },
-        {
-          "type": "shield",
-          "position": "center",
-          "color": "Argent"
-        }
-      ],
-      "shieldShape": "heater",
-      "createdAt": "1624-01-01T00:00:00Z",
-      "designer": "Unknown",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20New%20York%20City.svg",
-      "description": "The coat of arms of New York City features a shield supported by a sailor and a Native American, symbolizing unity and history. An eagle crest represents strength and independence.",
-      "usage": {
-        "officialDocuments": true,
-        "flags": true,
-        "seal": true
-      }
-    },
-    {
-      "id": "3",
-      "name": "New York",
-      "motto": {
-        "latin": "Sigillum Civitatis Novi Eboraci",
-        "english": "Seal of the City of New York"
-      },
-      "colors": ["Azure", "Argent", "Or"],
-      "symbols": [
-        {
-          "type": "eagle",
-          "position": "crest",
-          "color": "Or"
-        },
-        {
-          "type": "shield",
-          "position": "center",
-          "color": "Argent"
-        }
-      ],
-      "shieldShape": "heater",
-      "createdAt": "1624-01-01T00:00:00Z",
-      "designer": "Unknown",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20New%20York%20City.svg",
-      "description": "The coat of arms of New York City features a shield supported by a sailor and a Native American, symbolizing unity and history. An eagle crest represents strength and independence.",
-      "usage": {
-        "officialDocuments": true,
-        "flags": true,
-        "seal": true
-      }
-    },
-    {
-      "id": "5",
-      "name": "Los Angeles",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "",
-      "designer": "",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Los%20Angeles.svg",
-      "description": "seat of Los Angeles County, and largest city in California, United States",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "6",
-      "name": "Alexandria",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "-0330-01-01T00:00:00Z",
-      "designer": "",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20-%20Alexandria%2C%20Egypt.svg",
-      "description": "Alexandria is a major city in Egypt. Lying at the western edge of the Nile River Delta",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "7",
-      "name": "Bern",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1191-01-01T00:00:00Z",
-      "designer": "",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CHE%20Bern%20BE%20COA.svg",
-      "description": "city in Switzerland, capital of the canton of Bern and de facto capital of Switzerland",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "8",
-      "name": "Warsaw",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "",
-      "designer": "",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/POL%20Warszawa%20COA.svg",
-      "description": "The metropolis stands on the River Vistula in east-central Poland. Its population is officially estimated at 1.86 million residents within a greater metropolitan area of 3.27 million residents, which makes Warsaw the 6th most-populous city in the European Union.",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "9",
-      "name": "switzerland",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1815",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_Arms_of_Switzerland_%28Pantone%29.svg/960px-Coat_of_Arms_of_Switzerland_%28Pantone%29.svg.png",
-      "description": "The triangular shield shape was frequently used by the federal administration throughout the 20th century, and adopted officially (as emblem of the federal administration, not necessarily as emblem of Switzerland as sovereign entity) in 2017. Precedents for this shield shape go back to designs dated to as early as 1815. The official coat of arms of the Swiss Confederation is a white couped cross in a red heraldic shield, without explicit specification of the shape of the shield, and a variety of shield shapes are in use.",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "10",
-      "name": "Lower Silesian Voivodeship",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": ["Yellow", "black eagle with white cross"],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "2009",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_COA.svg/960px-POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_COA.svg.png",
-      "description": "The design of the coat of arms had been for the first time used by Henry II the Pious, duke of Wrocław and Greater Poland, and the High Duke of Poland. It was present in his seal, that was used from 1224 to 1240. It depicted an eagle with a crescent put across its wings, with a cross pattée on top of it, in its middle, placed on a shield. Such design was inspired by the seal used by Henry the Bearded, his father. Since then, the black eagle with a white (silver) crescent put across its wings, usually with a white (silver) cross pattée on top of it, placed in the yellow (golden) escutcheon (shield), had become the symbol of the Lower Silesia, including being the symbol of the Piast rulers of the Duchy of Silesia, and many of its successors",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-
-      "id": "11",
-      "name": "Lusatia",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": ["Yellow", "black eagle with white cross"],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "2009",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lusatia_COA.svg/960px-Lusatia_COA.svg.png",
-      "description": "The history behind Lusatian coats of arms is deeply intertwined with the region's cultural and political identity. The coat of arms with an ox, which may have been for Lusatia, first appeared in the time of Henry IV of Meissen. It is believed to have been the arms of Henry IV for Lusatia, as it was used in the coat of arms of the Benedictine monastery of Göss, which dates back to the time of King Přemysl Ottokar II the Great. The idea of the ox as the emblem of Lusatia was also put forward around 1520 in George Spalatin's Saxon chronicles. ",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "12",
-      "name": "London",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": ["Red cross", "white background"],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1381",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_Arms_of_The_City_of_London.svg/960px-Coat_of_Arms_of_The_City_of_London.svg.png",
-      "description": "The coat of arms is not just a decorative symbol; it represents the sovereignty and independence of the City of London. It is used in various official capacities, including on documents, buildings, and ceremonial occasions. The arms are also present in stained glass, street furniture, and other public displays throughout the city, reinforcing the identity and heritage of London. ",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "13",
-      "name": "Ostrava",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1267",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ostrava_CoA_CZ.svg/960px-Ostrava_CoA_CZ.svg.png",
-      "description": "The city's coat of arms features a blue shield with a rearing silver horse standing on a green lawn. The horse wears a golden saddle and a red coverlet. At the top right of the shield there is a golden rose with green leaves and a red core. The horse in the coat-of-arms wears no bridle. The oldest known depiction of this coat-of-arms is on a seal dating from 1426. The first coloured version dates from 1728. The horse is often interpreted as a symbol of Ostrava's position on a major trade route, or as a figure taken from the coat-of-arms of Ostrava's first vogt (reeve), while the golden rose probably comes from the family coat-of-arms of the bishop of Olomouc Stanislav I Thurzo. This explanation is supported by most modern literature",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "14",
-      "name": "Wroclaw",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1214",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herb_wroclaw.svg/960px-Herb_wroclaw.svg.png",
-      "description": "The coat of arms has undergone several changes throughout history. The first version was created in 1292, featuring only the head of St. John the Baptist. After Wrocław became part of the Kingdom of Bohemia, the Bohemian lion was added. The current design was restored in 1990 after the fall of communism in Poland, reflecting the city's rich history and cultural identity.",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "+14",
-      "name": "vratislav",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1214",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herb_wroclaw.svg/960px-Herb_wroclaw.svg.png",
-      "description": "The coat of arms has undergone several changes throughout history. The first version was created in 1292, featuring only the head of St. John the Baptist. After Wrocław became part of the Kingdom of Bohemia, the Bohemian lion was added. The current design was restored in 1990 after the fall of communism in Poland, reflecting the city's rich history and cultural identity.",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "15",
-      "name": "Birmingham",
-      "motto": {
-        "latin": "",
-        "english": "Forward"
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1166",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Coat_of_arms_of_Birmingham.svg/960px-Coat_of_arms_of_Birmingham.svg.png",
-      "description": "",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "15",
-      "name": "Manchester",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1301",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arms_of_the_Manchester_City_Council.svg/960px-Arms_of_the_Manchester_City_Council.svg.png",
-      "description": "",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "15",
-      "name": "Glasgow",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1175",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arms_of_the_Manchester_City_Council.svg/960px-Arms_of_the_Manchester_City_Council.svg.png",
-      "description": "",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "15",
-      "name": "Liverpool",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "1207",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Coat_of_arms_of_Liverpool_City_Council.svg/960px-Coat_of_arms_of_Liverpool_City_Council.svg.png",
-      "description": "",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    },
-    {
-      "id": "15",
-      "name": "Sheffield",
-      "motto": {
-        "latin": "",
-        "english": ""
-      },
-      "colors": [],
-      "symbols": [],
-      "shieldShape": "",
-      "createdAt": "c1101",
-      "designer": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Sheffield_City_Council.svg/960px-Coat_of_arms_of_Sheffield_City_Council.svg.png",
-      "description": "",
-      "usage": {
-        "officialDocuments": false,
-        "flags": false,
-        "seal": false
-      }
-    }
-  ]
-}
+    ],
+    "usage_flags": 1,
+    "usage_official_documents": 1,
+    "usage_seal": 1
+  },
+  {
+    "colors": [],
+    "created_at": "c1101",
+    "description": "",
+    "designer": "",
+    "id": 16,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Sheffield_City_Council.svg/960px-Coat_of_arms_of_Sheffield_City_Council.svg.png",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Sheffield",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [],
+    "created_at": "1815",
+    "description": "The official coat of arms of the Swiss Confederation is a white couped cross in a red heraldic shield.",
+    "designer": "",
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_Arms_of_Switzerland_%28Pantone%29.svg/960px-Coat_of_Arms_of_Switzerland_%28Pantone%29.svg.png",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Switzerland",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [],
+    "created_at": "",
+    "description": "The metropolis stands on the River Vistula in east-central Poland.",
+    "designer": "",
+    "id": 7,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/POL%20Warszawa%20COA.svg",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Warsaw",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [],
+    "created_at": "1214",
+    "description": "The coat of arms has undergone several changes throughout history. The current design was restored in 1990 after the fall of communism in Poland.",
+    "designer": "",
+    "id": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herb_wroclaw.svg/960px-Herb_wroclaw.svg.png",
+    "motto_english": "",
+    "motto_latin": "",
+    "motto_other": {},
+    "name": "Wroclaw",
+    "shield_shape": "",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  },
+  {
+    "colors": [
+      "test"
+    ],
+    "created_at": "test",
+    "description": "test",
+    "designer": "test",
+    "id": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/United_Nations_Flags_-_cropped.jpg/1280px-United_Nations_Flags_-_cropped.jpg",
+    "motto_english": "test",
+    "motto_latin": "test",
+    "motto_other": {},
+    "name": "test",
+    "shield_shape": "test",
+    "symbols": [],
+    "usage_flags": 0,
+    "usage_official_documents": 0,
+    "usage_seal": 0
+  }
+]
