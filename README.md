@@ -1,7 +1,7 @@
 # CSS and HTML made by AI
 # Coats of Arms API repository — Flask + SQLite
 # the project
-[https://coats.zdislav.dpdns.org/](https://coats.zdislav.dpdns.org/)
+[https://coats-of-arms.zdislav.dpdns.org/](https://coats-of-arms.zdislav.dpdns.org/)
 A web app to collect, browse, and manage coats of arms for towns and countries.
 ## Setup
 ```bash
